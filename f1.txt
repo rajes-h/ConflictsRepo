@@ -1,5 +1,5 @@
 line 1
-line 2 master branch
+line 2 Bug1 branch
 line 3
 line 4
 
